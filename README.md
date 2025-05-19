@@ -43,14 +43,3 @@ Learned how to use Markdown for titles, notes, and formatting.
 - `day1_hello_python.ipynb` – My notebook with code and Markdown
 - `README.md` – This file that explains what I did
 
----
-
-## 📈 What's Next?
-Tomorrow, I’ll be learning about:
-- Variables and data types
-- Storing information in Python
-- More portfolio-worthy practice problems
-
-Stay tuned for Day 2!
-
----
