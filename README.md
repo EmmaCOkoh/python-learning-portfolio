@@ -1,10 +1,10 @@
-# 🐍 Day 1: Introduction to Python – My Learning Journey
+# Day 1: Introduction to Python – My Learning Journey
 
 Welcome to Day 1 of my Python learning journey! This repository documents my step-by-step practice as I learn Python with the goal of building a strong portfolio and transitioning into a tech role that aligns with my CAD background and AI interests.
 
 ---
 
-## ✅ What I Learned Today
+## What I Learned Today
 
 ### 🔹 Python Basics:
 - How to write and run Python code using JupyterLab
@@ -20,7 +20,7 @@ Welcome to Day 1 of my Python learning journey! This repository documents my ste
 
 ---
 
-## 🧪 Practice Exercises
+## Practice Exercises
 
 ### 🔸 Practice 1: Print your bio  
 Wrote a short intro about myself using the `print()` function.
@@ -33,7 +33,7 @@ Learned how to use Markdown for titles, notes, and formatting.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - **JupyterLab** for writing and running Python code
 - **GitHub** to document and showcase my progress
 
